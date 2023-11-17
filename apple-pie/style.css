@@ -3,15 +3,19 @@ body{
      font-family: Arial, Helvetica, sans-serif;
      color: rgb(125, 125, 125);
      line-height: 9px;
+     position: static;
+     
       
 }
 img{
     width: 7%;
     margin: 1px 75px ;
+    position: static;
 }
 hr{
    width: 12% ;
    position: fixed;
    margin-left: 30px;
+   position: fixed;
    
 }
