@@ -1,9 +1,11 @@
 body{
-    
      font-family: Arial, Helvetica, sans-serif;
      color: rgb(125, 125, 125);
      line-height: 9px;
-     position: static;
+     
+     width: 20%; 
+     position: fixed
+     ;
      
       
 }
@@ -18,4 +20,12 @@ hr{
    margin-left: 30px;
    position: fixed;
    
+}
+
+#first-h1{
+    background-image: url(images/apple-pie.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: local;
+    
 }
